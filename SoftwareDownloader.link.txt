@@ -1,0 +1,3 @@
+EdgeWebView2Runtime.arm64
+https://go.microsoft.com/fwlink/?linkid=2099616
+ARM64.exe
